@@ -29,8 +29,8 @@ python renameFont.py
 ```
 
 ## Notes 
-Make sure to backup your font files before running the script to avoid unintended data loss.
+- Make sure to backup your font files before running the script to avoid unintended data loss.
 
-The script only renames files with a ".ttf" extension.
+- The script only renames files with a ".ttf" extension.
 
 Feel free to reach out if you have any questions or encounter issues!
